@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "blockhash": "^0.2.0",
+    "dev-null": "^0.1.1",
+    "discord.js": "github:hydrabolt/discord.js#indev",
+    "gm": "^1.23.0",
+    "hamming-distance": "^1.0.0",
+    "jimp": "github:iwasawafag/jimp#performance-improvenets",
+    "jpeg-js": "^0.2.0",
+    "node-opus": "^0.2.4",
+    "png-js": "^0.1.1",
+    "sharp-blockhash": "0.0.1",
+    "superagent": "^3.1.0",
+    "xml2js": "^0.4.17"
+  },
+  "name": "bestgirl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Fougner <alexander.fougner@gmail.com>",
+  "license": "ISC",
+  "description": ""
+}
